@@ -1,0 +1,4 @@
+[debug] [twosum-test] Classpath dependencies List()
+[debug] [twosum-test] Dependencies from configurations List(twosum)
+[debug] Bloop wrote the configuration of project 'twosum-test' to 'C:\_Ongoing\scalaproject\twosum\.bloop\twosum-test.json'
+[success] Generated .bloop\twosum-test.json

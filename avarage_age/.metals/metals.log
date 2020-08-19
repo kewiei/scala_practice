@@ -1,0 +1,467 @@
+2020.08.12 21:15:14 INFO  started: Metals version 0.9.2 in workspace 'C:\_Ongoing\scalaproject\avarage_age' for client vscode.
+2020.08.12 21:15:16 INFO  time: initialize in 1.87s
+2020.08.12 21:15:17 INFO  no build target: using presentation compiler with only scala-library
+2020.08.12 21:15:23 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:15:29 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:15:38 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:15:49 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:15:51 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:15:54 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:15:59 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:16:09 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:16:23 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:16:26 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:16:36 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:16:41 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:16:47 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:16:50 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:16:51 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:16:56 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:16:58 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:17:02 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:17:18 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:17:20 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:17:32 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:17:34 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:17:41 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:17:43 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:17:49 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:17:51 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:17:54 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:18:14 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:18:21 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.12 21:18:21 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.12 21:18:22 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:18:25 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.12 21:18:25 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.12 21:18:25 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.12 21:18:27 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:18:29 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.12 21:18:29 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.12 21:18:32 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:18:35 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:18:43 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:18:48 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:18:50 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:18:56 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:18:58 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:19:01 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:19:02 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:19:06 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:19:08 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:19:32 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:19:39 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:19:44 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+something's wrong: no file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala in Array[<error>]RangePosition(file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala, 418, 418, 433)
+something's wrong: no file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala in Array[<error>]RangePosition(file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala, 418, 418, 426)
+something's wrong: no file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala in Array[<error>]RangePosition(file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala, 418, 418, 428)
+something's wrong: no file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala in Array[<error>]RangePosition(file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala, 418, 418, 429)
+something's wrong: no file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala in Array[<error>]RangePosition(file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala, 418, 418, 430)
+something's wrong: no file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala in Array[String]RangePosition(file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala, 418, 418, 431)
+2020.08.12 21:19:53 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+something's wrong: no file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala in Array[<error>]RangePosition(file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala, 418, 418, 451)
+2020.08.12 21:20:01 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+something's wrong: no file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala in Array[<error>]RangePosition(file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala, 418, 418, 450)
+something's wrong: no file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala in Array[<error>]RangePosition(file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala, 418, 418, 433)
+something's wrong: no file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala in Array[<error>]RangePosition(file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala, 418, 418, 426)
+something's wrong: no file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala in Array[<error>]RangePosition(file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala, 418, 418, 427)
+something's wrong: no file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala in Array[<error>]RangePosition(file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala, 418, 418, 428)
+something's wrong: no file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala in Array[<error>]RangePosition(file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala, 418, 418, 429)
+something's wrong: no file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala in Array[<error>]RangePosition(file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala, 418, 418, 430)
+something's wrong: no file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala in Array[String]RangePosition(file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala, 418, 418, 431)
+2020.08.12 21:20:05 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+something's wrong: no file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala in Array[String]RangePosition(file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala, 418, 418, 431)
+something's wrong: no file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala in Array[String]RangePosition(file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala, 418, 418, 431)
+2020.08.12 21:20:24 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:20:38 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:20:44 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:20:45 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:20:47 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:20:48 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:20:53 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:20:55 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:20:57 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:21:06 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:21:07 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:21:19 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:21:22 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:21:52 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:21:55 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:21:58 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:22:00 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:22:03 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:22:29 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:22:36 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:22:46 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:22:47 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.12 21:22:47 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.12 21:22:50 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:22:50 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.12 21:22:50 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.12 21:22:50 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.12 21:22:52 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:22:55 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:22:57 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:23:06 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:23:12 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.12 21:23:16 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:23:18 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:23:21 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:23:24 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:23:25 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:23:44 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:23:46 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:23:48 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:24:25 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:24:26 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:24:41 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:24:44 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:24:48 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:25:23 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.12 21:25:23 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.12 21:25:24 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:25:32 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.12 21:25:32 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.12 21:25:33 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:27:34 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+something's wrong: no file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala in Array[String]RangePosition(file:///c%3A/_Ongoing/scalaproject/avarage_age/src/main/scala/Hello.scala, 415, 415, 428)
+2020.08.12 21:27:38 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:27:40 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:27:42 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:28:05 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:29:09 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:29:10 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:29:12 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:29:17 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.12 21:29:18 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:29:21 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:30:28 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:30:30 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:30:44 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:31:10 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:31:17 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:31:17 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.12 21:31:17 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.12 21:31:18 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.12 21:31:19 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:31:25 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:31:30 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.12 21:31:31 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.12 21:31:32 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:31:40 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.12 21:31:40 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.12 21:31:42 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:51:30 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:51:39 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:51:40 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:51:56 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:52:00 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.12 21:56:40 INFO  shutting down Metals
+2020.08.13 11:24:35 INFO  started: Metals version 0.9.2 in workspace 'C:\_Ongoing\scalaproject\avarage_age' for client vscode.
+2020.08.13 11:24:38 INFO  time: initialize in 2.21s
+2020.08.13 11:24:39 INFO  no build target: using presentation compiler with only scala-library
+2020.08.13 11:24:39 INFO  skipping build import with status 'Requested'
+2020.08.13 11:24:44 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 11:29:22 INFO  shutting down Metals
+2020.08.13 18:28:31 INFO  started: Metals version 0.9.2 in workspace 'C:\_Ongoing\scalaproject\avarage_age' for client vscode.
+2020.08.13 18:28:33 INFO  time: initialize in 1.96s
+2020.08.13 18:28:34 INFO  no build target: using presentation compiler with only scala-library
+2020.08.13 18:28:34 INFO  skipping build import with status 'Requested'
+2020.08.13 18:28:38 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:41:51 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:42:36 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:42:40 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:42:43 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:42:47 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:42:49 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:42:59 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:43:02 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:43:07 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:43:08 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:43:11 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:43:50 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:44:11 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:44:13 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:44:16 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:44:18 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 18:44:18 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 18:44:18 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 18:44:21 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:44:33 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:44:45 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:45:09 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+Aug 13, 2020 6:50:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 224
+2020.08.13 18:50:48 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 18:50:48 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 18:50:48 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 18:50:48 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 18:50:50 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:50:52 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:52:09 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:52:10 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:52:53 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:52:58 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:53:03 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:53:11 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:53:13 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:53:16 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:53:18 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:53:21 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:53:25 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:53:28 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:53:31 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:53:38 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:55:09 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 18:55:09 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 18:55:10 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:55:13 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:55:16 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:55:20 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:55:23 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:55:27 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:55:29 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:55:35 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:55:38 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:55:44 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:55:47 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:55:48 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:55:53 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:55:54 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:55:56 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:55:59 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:56:02 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:56:04 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:56:07 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:56:08 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:56:15 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:56:25 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:56:30 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:56:30 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 18:56:32 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 18:56:38 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:56:44 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:56:45 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:56:47 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:56:49 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:56:51 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:56:54 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:56:58 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 18:56:58 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 18:56:59 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 18:56:59 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 18:57:01 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:57:03 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:57:17 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:57:18 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:57:22 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:57:24 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:57:26 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:57:28 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:57:34 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:59:18 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 18:59:20 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:00:17 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:00:17 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:00:20 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:00:23 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:00:27 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:00:32 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:00:36 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:00:36 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:00:36 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:00:38 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:00:57 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:00:59 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:01:26 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:02:12 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:02:26 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:02:27 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:02:29 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:02:30 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:02:30 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:02:48 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:03:19 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:03:20 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:03:43 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:03:46 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:03:47 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:03:50 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:03:50 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:03:51 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:03:53 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:03:56 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:03:58 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:03:58 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:03:59 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:05:35 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:07:52 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:07:53 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:07:56 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:08:07 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:08:08 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:08:10 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:08:12 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:08:15 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:08:18 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:08:20 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:08:21 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:08:24 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:08:26 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:08:32 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:08:33 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:08:38 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:08:46 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:08:48 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:08:48 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:08:48 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:08:51 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:08:51 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:08:52 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:08:55 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:08:55 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:08:55 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:08:55 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:08:55 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:08:57 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:09:07 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:09:16 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:09:30 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:09:33 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:09:37 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:09:40 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:09:42 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:09:42 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:09:42 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:09:43 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:09:45 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:09:45 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:09:45 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:09:47 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:09:58 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:10:50 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:10:50 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:10:50 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:10:51 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:10:53 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:10:59 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:11:09 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:11:16 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:11:20 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:11:22 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:11:25 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:11:25 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:11:29 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:11:30 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:11:30 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:11:32 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:11:35 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:11:44 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:12:16 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:12:21 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:12:36 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:12:50 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:13:01 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:13:12 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:13:12 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:13:16 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:13:17 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:13:21 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:13:36 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:13:38 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:14:11 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:14:12 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:14:13 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:14:16 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:14:29 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:14:30 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:14:40 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:14:42 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:14:51 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:14:51 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:14:52 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:14:52 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:14:53 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:14:53 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:14:57 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:14:57 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:14:58 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:15:07 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:15:07 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:15:09 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:15:11 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:15:11 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:15:11 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:15:11 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:15:11 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:15:13 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:15:58 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:16:01 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:16:08 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:16:32 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:16:32 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:16:32 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:16:32 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:16:34 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:16:36 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:16:37 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:16:38 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:16:40 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:18:31 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:18:32 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:18:35 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:18:37 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:18:54 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:19:18 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:19:32 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:19:37 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:19:40 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:19:44 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:19:53 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:19:55 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:19:55 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:19:56 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:19:57 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:20:50 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:21:26 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:22:00 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:22:34 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:22:39 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:22:40 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:22:59 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:23:04 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:23:07 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:23:08 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:23:13 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:23:15 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:23:32 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:23:32 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:23:33 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:23:37 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:23:46 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:24:04 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:24:32 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:24:41 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:24:56 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:24:57 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:25:53 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:25:54 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:25:56 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:25:58 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:25:59 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:26:02 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:26:05 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:26:08 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:26:10 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:26:13 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:26:15 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:26:16 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:52:29 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:52:34 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:52:36 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:52:36 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:52:40 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 19:52:41 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:52:41 WARN  code navigation does not work for the file 'C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala' because it doesn't belong to a build target.
+2020.08.13 19:52:44 WARN  no build target for: C:\_Ongoing\scalaproject\avarage_age\src\main\scala\Hello.scala
+2020.08.13 20:50:37 INFO  shutting down Metals

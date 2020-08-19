@@ -1,0 +1,793 @@
+2020.08.13 20:51:05 INFO  started: Metals version 0.9.2 in workspace 'C:\_Ongoing\scalaproject\twosum' for client vscode.
+2020.08.13 20:51:06 INFO  time: initialize in 1.44s
+2020.08.13 20:51:07 INFO  no build target: using presentation compiler with only scala-library
+2020.08.13 20:51:17 INFO  running 'C:\Program Files\AdoptOpenJDK\jdk-11.0.7.10-hotspot\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -Dsbt.version=1.3.13 -jar C:\Users\kewie\AppData\Local\Temp\metals1132778906752644585\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2020.08.13 20:51:26 INFO  [info] welcome to sbt 1.3.13 (AdoptOpenJDK Java 11.0.7)
+2020.08.13 20:51:28 INFO  [info] loading global plugins from C:\Users\kewie\.sbt\1.0\plugins
+2020.08.13 20:51:32 INFO  [info] loading settings for project twosum-build from metals.sbt ...
+2020.08.13 20:51:32 INFO  [info] loading project definition from C:\_Ongoing\scalaproject\twosum\project
+2020.08.13 20:51:33 INFO  [info] loading settings for project twosum from build.sbt ...
+2020.08.13 20:51:33 INFO  [info] set current project to twosum (in build file:/C:/_Ongoing/scalaproject/twosum/)
+2020.08.13 20:51:46 INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
+2020.08.13 20:51:50 INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
+2020.08.13 20:51:52 INFO  [success] Generated .bloop\twosum-test.json
+2020.08.13 20:51:52 INFO  [success] Generated .bloop\twosum.json
+2020.08.13 20:51:52 INFO  [success] Total time: 18 s, completed Aug 13, 2020, 8:51:52 PM
+2020.08.13 20:51:52 INFO  build tool exit: 0
+2020.08.13 20:51:52 INFO  time: ran 'sbt bloopInstall' in 35s
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 18282'...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.3...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+[0m[32m[D][0m Loading 2 projects from 'c:\_Ongoing\scalaproject\twosum\.bloop'...
+[0m[32m[D][0m Loading project from 'c:\_Ongoing\scalaproject\twosum\.bloop\twosum.json'
+[0m[32m[D][0m Loading project from 'c:\_Ongoing\scalaproject\twosum\.bloop\twosum-test.json'
+[0m[32m[D][0m Cache miss for scala instance org.scala-lang:scala-compiler:2.12.10.
+[0m[32m[D][0m   => C:\Users\kewie\.sbt\boot\scala-2.12.10\lib\jansi.jar
+[0m[32m[D][0m   => C:\Users\kewie\.sbt\boot\scala-2.12.10\lib\jline.jar
+[0m[32m[D][0m   => C:\Users\kewie\.sbt\boot\scala-2.12.10\lib\scala-compiler.jar
+[0m[32m[D][0m   => C:\Users\kewie\.sbt\boot\scala-2.12.10\lib\scala-library.jar
+[0m[32m[D][0m   => C:\Users\kewie\.sbt\boot\scala-2.12.10\lib\scala-reflect.jar
+[0m[32m[D][0m   => C:\Users\kewie\.sbt\boot\scala-2.12.10\lib\scala-xml_2.12.jar
+[0m[32m[D][0m Missing analysis file for project 'twosum-test'
+[0m[32m[D][0m Missing analysis file for project 'twosum'
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:18282...
+The server is listening for incoming connections at tcp://127.0.0.1:18282...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2020.08.13 20:52:21 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\kewie\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2020.08.13 20:52:26 ERROR Timeout waiting for 'build/initialize' response
+2020.08.13 20:52:26 ERROR Failed to connect with build server, no functionality will work.
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1886)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2021)
+	at scala.meta.internal.metals.BuildServerConnection$.initialize(BuildServerConnection.scala:309)
+	at scala.meta.internal.metals.BuildServerConnection$.$anonfun$fromSockets$1(BuildServerConnection.scala:249)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+2020.08.13 20:53:00 INFO  shutting down Metals
+2020.08.13 20:53:30 INFO  started: Metals version 0.9.2 in workspace 'C:\_Ongoing\scalaproject\twosum' for client vscode.
+2020.08.13 20:53:31 INFO  time: initialize in 1.18s
+2020.08.13 20:53:31 INFO  no build target: using presentation compiler with only scala-library
+2020.08.13 20:53:31 INFO  skipping build import with status 'Installed'
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 41213'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:41213...
+The server is listening for incoming connections at tcp://127.0.0.1:41213...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2020.08.13 20:53:33 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\kewie\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2020.08.13 20:53:34 INFO  time: connected to build server in 2.22s
+2020.08.13 20:53:34 INFO  Connected to Build server v1.4.3
+2020.08.13 20:53:33 INFO  time: imported build in 0.34s
+Aug 13, 2020 8:53:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+2020.08.13 20:53:40 INFO  time: indexed workspace in 6.58s
+2020.08.13 20:54:02 INFO  compiling twosum (1 scala source)
+2020.08.13 20:54:04 ERROR failed: Preparing presentation compiler
+java.io.FileNotFoundException: C:\Users\kewie\AppData\Local\Coursier\cache\v1\.structure.lock (The process cannot access the file because it is being used by another process)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:298)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187)
+	at coursierapi.shaded.coursier.paths.CachePath.withStructureLock(CachePath.java:132)
+	at coursierapi.shaded.coursier.cache.CacheLocks$.withStructureLock(CacheLocks.scala:21)
+	at coursierapi.shaded.coursier.cache.CacheLocks$.withLockOr(CacheLocks.scala:38)
+	at coursierapi.shaded.coursier.cache.FileCache.$anonfun$download$33(FileCache.scala:508)
+	at coursierapi.shaded.scala.concurrent.Future$.$anonfun$apply$1(Future.scala:661)
+	at coursierapi.shaded.scala.concurrent.impl.Promise$Transformation.run(Promise.scala:430)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+Aug 13, 2020 8:54:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "textDocument/didOpen",
+  "params": {
+    "textDocument": {
+      "uri": "file:///c%3A/_Ongoing/scalaproject/twosum/src/main/scala/twosum_main.scala",
+      "languageId": "scala",
+      "version": 1,
+      "text": ""
+    }
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.io.FileNotFoundException: C:\Users\kewie\AppData\Local\Coursier\cache\v1\.structure.lock (The process cannot access the file because it is being used by another process)
+	at java.base/java.io.FileOutputStream.open0(Native Method)
+	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:298)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:237)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:187)
+	at coursierapi.shaded.coursier.paths.CachePath.withStructureLock(CachePath.java:132)
+	at coursierapi.shaded.coursier.cache.CacheLocks$.withStructureLock(CacheLocks.scala:21)
+	at coursierapi.shaded.coursier.cache.CacheLocks$.withLockOr(CacheLocks.scala:38)
+	at coursierapi.shaded.coursier.cache.FileCache.$anonfun$download$33(FileCache.scala:508)
+	at coursierapi.shaded.scala.concurrent.Future$.$anonfun$apply$1(Future.scala:661)
+	at coursierapi.shaded.scala.concurrent.impl.Promise$Transformation.run(Promise.scala:430)
+	... 3 more
+
+2020.08.13 20:54:17 INFO  time: compiled twosum in 14s
+2020.08.13 20:54:23 INFO  compiling twosum (1 scala source)
+2020.08.13 20:54:23 INFO  time: compiled twosum in 0.77s
+2020.08.13 20:54:26 INFO  compiling twosum (1 scala source)
+2020.08.13 20:54:26 INFO  time: compiled twosum in 0.23s
+2020.08.13 20:54:31 INFO  compiling twosum (1 scala source)
+2020.08.13 20:54:31 INFO  time: compiled twosum in 0.56s
+2020.08.13 20:54:33 INFO  compiling twosum (1 scala source)
+2020.08.13 20:54:33 INFO  time: compiled twosum in 0.62s
+2020.08.13 20:54:39 INFO  compiling twosum (1 scala source)
+2020.08.13 20:54:39 INFO  time: compiled twosum in 0.19s
+2020.08.13 20:54:41 INFO  compiling twosum (1 scala source)
+2020.08.13 20:54:41 INFO  time: compiled twosum in 0.16s
+2020.08.13 20:54:44 INFO  compiling twosum (1 scala source)
+2020.08.13 20:54:44 INFO  time: compiled twosum in 0.17s
+2020.08.13 20:54:48 INFO  compiling twosum (1 scala source)
+2020.08.13 20:54:48 INFO  time: compiled twosum in 0.84s
+2020.08.13 20:54:51 INFO  compiling twosum (1 scala source)
+2020.08.13 20:54:51 INFO  time: compiled twosum in 0.92s
+2020.08.13 20:54:54 INFO  compiling twosum (1 scala source)
+2020.08.13 20:54:54 INFO  time: compiled twosum in 0.19s
+2020.08.13 20:54:56 INFO  compiling twosum (1 scala source)
+2020.08.13 20:54:56 INFO  time: compiled twosum in 0.16s
+2020.08.13 20:55:03 INFO  compiling twosum (1 scala source)
+2020.08.13 20:55:03 INFO  time: compiled twosum in 0.15s
+2020.08.13 20:55:05 INFO  compiling twosum (1 scala source)
+2020.08.13 20:55:05 INFO  time: compiled twosum in 0.15s
+2020.08.13 20:55:08 INFO  compiling twosum (1 scala source)
+2020.08.13 20:55:08 INFO  time: compiled twosum in 0.18s
+2020.08.13 20:55:11 INFO  compiling twosum (1 scala source)
+2020.08.13 20:55:11 INFO  time: compiled twosum in 0.15s
+2020.08.13 20:55:13 INFO  compiling twosum (1 scala source)
+2020.08.13 20:55:13 INFO  time: compiled twosum in 0.19s
+2020.08.13 20:55:15 INFO  compiling twosum (1 scala source)
+2020.08.13 20:55:15 INFO  time: compiled twosum in 0.16s
+2020.08.13 20:55:20 INFO  compiling twosum (1 scala source)
+2020.08.13 20:55:20 INFO  time: compiled twosum in 0.17s
+something's wrong: no file:///c%3A/_Ongoing/scalaproject/twosum/src/main/scala/twosum_main.scala in Array[<error>]RangePosition(file:///c%3A/_Ongoing/scalaproject/twosum/src/main/scala/twosum_main.scala, 131, 131, 146)
+something's wrong: no file:///c%3A/_Ongoing/scalaproject/twosum/src/main/scala/twosum_main.scala in Array[<error>]RangePosition(file:///c%3A/_Ongoing/scalaproject/twosum/src/main/scala/twosum_main.scala, 131, 131, 139)
+2020.08.13 20:55:23 INFO  compiling twosum (1 scala source)
+2020.08.13 20:55:23 INFO  time: compiled twosum in 0.42s
+something's wrong: no file:///c%3A/_Ongoing/scalaproject/twosum/src/main/scala/twosum_main.scala in Array[String]RangePosition(file:///c%3A/_Ongoing/scalaproject/twosum/src/main/scala/twosum_main.scala, 131, 131, 144)
+2020.08.13 20:55:25 INFO  compiling twosum (1 scala source)
+2020.08.13 20:55:25 INFO  time: compiled twosum in 0.17s
+2020.08.13 20:55:30 INFO  compiling twosum (1 scala source)
+2020.08.13 20:55:30 INFO  time: compiled twosum in 0.81s
+2020.08.13 20:55:39 INFO  compiling twosum (1 scala source)
+2020.08.13 20:55:39 INFO  time: compiled twosum in 0.73s
+2020.08.13 20:55:47 INFO  compiling twosum (1 scala source)
+2020.08.13 20:55:47 INFO  time: compiled twosum in 0.67s
+2020.08.13 20:55:50 INFO  compiling twosum (1 scala source)
+2020.08.13 20:55:50 INFO  time: compiled twosum in 0.82s
+2020.08.13 20:55:56 INFO  compiling twosum (1 scala source)
+2020.08.13 20:55:56 INFO  time: compiled twosum in 0.2s
+Aug 13, 2020 8:55:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 327
+Aug 13, 2020 8:55:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 330
+Aug 13, 2020 8:55:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 328
+2020.08.13 20:55:58 INFO  compiling twosum (1 scala source)
+2020.08.13 20:55:58 INFO  time: compiled twosum in 0.15s
+2020.08.13 20:56:00 INFO  compiling twosum (1 scala source)
+2020.08.13 20:56:00 INFO  time: compiled twosum in 0.87s
+2020.08.13 20:56:04 INFO  compiling twosum (1 scala source)
+2020.08.13 20:56:04 INFO  time: compiled twosum in 0.2s
+2020.08.13 20:56:06 INFO  compiling twosum (1 scala source)
+2020.08.13 20:56:06 INFO  time: compiled twosum in 0.19s
+2020.08.13 20:56:09 INFO  compiling twosum (1 scala source)
+2020.08.13 20:56:09 INFO  time: compiled twosum in 0.21s
+2020.08.13 20:56:11 INFO  compiling twosum (1 scala source)
+2020.08.13 20:56:11 INFO  time: compiled twosum in 0.19s
+2020.08.13 20:56:13 INFO  compiling twosum (1 scala source)
+2020.08.13 20:56:13 INFO  time: compiled twosum in 0.17s
+2020.08.13 20:56:15 INFO  compiling twosum (1 scala source)
+2020.08.13 20:56:15 INFO  time: compiled twosum in 0.15s
+2020.08.13 20:56:18 INFO  compiling twosum (1 scala source)
+2020.08.13 20:56:18 INFO  time: compiled twosum in 0.2s
+2020.08.13 20:56:20 INFO  compiling twosum (1 scala source)
+2020.08.13 20:56:20 INFO  time: compiled twosum in 0.33s
+2020.08.13 20:56:29 INFO  compiling twosum (1 scala source)
+2020.08.13 20:56:29 INFO  time: compiled twosum in 0.81s
+2020.08.13 20:56:32 INFO  compiling twosum (1 scala source)
+2020.08.13 20:56:32 INFO  time: compiled twosum in 0.91s
+Aug 13, 2020 9:11:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2020.08.13 21:18:30 INFO  compiling twosum (1 scala source)
+2020.08.13 21:18:30 INFO  time: compiled twosum in 0.17s
+2020.08.13 21:18:32 INFO  compiling twosum (1 scala source)
+2020.08.13 21:18:32 INFO  time: compiled twosum in 0.15s
+2020.08.13 21:18:38 INFO  compiling twosum (1 scala source)
+2020.08.13 21:18:38 INFO  time: compiled twosum in 0.2s
+2020.08.13 21:18:43 INFO  compiling twosum (1 scala source)
+2020.08.13 21:18:43 INFO  time: compiled twosum in 0.19s
+2020.08.13 21:18:46 INFO  compiling twosum (1 scala source)
+2020.08.13 21:18:46 INFO  time: compiled twosum in 0.21s
+2020.08.13 21:18:48 INFO  compiling twosum (1 scala source)
+2020.08.13 21:18:48 INFO  time: compiled twosum in 0.28s
+2020.08.13 21:18:54 INFO  compiling twosum (1 scala source)
+2020.08.13 21:18:54 INFO  time: compiled twosum in 0.71s
+2020.08.13 21:18:59 INFO  compiling twosum (1 scala source)
+2020.08.13 21:18:59 INFO  time: compiled twosum in 0.67s
+2020.08.13 21:19:06 INFO  compiling twosum (1 scala source)
+2020.08.13 21:19:06 INFO  time: compiled twosum in 0.15s
+2020.08.13 21:19:08 INFO  compiling twosum (1 scala source)
+2020.08.13 21:19:08 INFO  time: compiled twosum in 0.14s
+2020.08.13 21:19:39 INFO  compiling twosum (1 scala source)
+2020.08.13 21:19:39 INFO  time: compiled twosum in 0.19s
+2020.08.13 21:19:41 INFO  compiling twosum (1 scala source)
+2020.08.13 21:19:41 INFO  time: compiled twosum in 0.21s
+2020.08.13 21:19:44 INFO  compiling twosum (1 scala source)
+2020.08.13 21:19:44 INFO  time: compiled twosum in 0.2s
+2020.08.13 21:19:46 INFO  compiling twosum (1 scala source)
+2020.08.13 21:19:46 INFO  time: compiled twosum in 0.18s
+2020.08.13 21:19:49 INFO  compiling twosum (1 scala source)
+2020.08.13 21:19:49 INFO  time: compiled twosum in 0.14s
+2020.08.13 21:19:51 INFO  compiling twosum (1 scala source)
+2020.08.13 21:19:51 INFO  time: compiled twosum in 0.2s
+2020.08.13 21:19:59 INFO  compiling twosum (1 scala source)
+2020.08.13 21:20:01 INFO  time: compiled twosum in 1.49s
+2020.08.13 21:20:05 INFO  compiling twosum (1 scala source)
+2020.08.13 21:20:06 INFO  time: compiled twosum in 1.01s
+2020.08.13 21:20:08 INFO  compiling twosum (1 scala source)
+2020.08.13 21:20:08 INFO  time: compiled twosum in 0.23s
+2020.08.13 21:21:35 INFO  compiling twosum (1 scala source)
+2020.08.13 21:21:35 INFO  time: compiled twosum in 0.2s
+2020.08.13 21:21:37 INFO  compiling twosum (1 scala source)
+2020.08.13 21:21:37 INFO  time: compiled twosum in 0.17s
+2020.08.13 21:21:40 INFO  compiling twosum (1 scala source)
+2020.08.13 21:21:40 INFO  time: compiled twosum in 0.17s
+2020.08.13 21:21:42 INFO  compiling twosum (1 scala source)
+2020.08.13 21:21:42 INFO  time: compiled twosum in 0.39s
+2020.08.13 21:21:44 INFO  compiling twosum (1 scala source)
+2020.08.13 21:21:44 INFO  time: compiled twosum in 0.22s
+2020.08.13 21:24:32 INFO  compiling twosum (1 scala source)
+2020.08.13 21:24:32 INFO  time: compiled twosum in 0.15s
+2020.08.13 21:24:34 INFO  compiling twosum (1 scala source)
+2020.08.13 21:24:34 INFO  time: compiled twosum in 0.16s
+2020.08.13 21:24:36 INFO  compiling twosum (1 scala source)
+2020.08.13 21:24:36 INFO  time: compiled twosum in 0.14s
+2020.08.13 21:24:40 INFO  compiling twosum (1 scala source)
+2020.08.13 21:24:40 INFO  time: compiled twosum in 0.74s
+2020.08.13 21:24:51 INFO  compiling twosum (1 scala source)
+2020.08.13 21:24:51 INFO  time: compiled twosum in 0.16s
+2020.08.13 21:24:53 INFO  compiling twosum (1 scala source)
+2020.08.13 21:24:53 INFO  time: compiled twosum in 0.77s
+2020.08.13 21:25:46 INFO  compiling twosum (1 scala source)
+2020.08.13 21:25:46 INFO  time: compiled twosum in 0.21s
+2020.08.13 21:26:24 INFO  compiling twosum (1 scala source)
+2020.08.13 21:26:24 INFO  time: compiled twosum in 0.17s
+2020.08.13 21:26:28 INFO  compiling twosum (1 scala source)
+2020.08.13 21:26:28 INFO  time: compiled twosum in 0.15s
+2020.08.13 21:26:30 INFO  compiling twosum (1 scala source)
+2020.08.13 21:26:30 INFO  time: compiled twosum in 0.17s
+2020.08.13 21:26:43 INFO  compiling twosum (1 scala source)
+2020.08.13 21:26:43 INFO  time: compiled twosum in 0.8s
+2020.08.13 21:26:51 INFO  compiling twosum (1 scala source)
+2020.08.13 21:26:51 INFO  time: compiled twosum in 0.22s
+2020.08.13 21:26:53 INFO  compiling twosum (1 scala source)
+2020.08.13 21:26:53 INFO  time: compiled twosum in 0.24s
+2020.08.13 21:26:57 INFO  compiling twosum (1 scala source)
+2020.08.13 21:26:57 INFO  time: compiled twosum in 0.15s
+2020.08.13 21:26:59 INFO  compiling twosum (1 scala source)
+2020.08.13 21:26:59 INFO  time: compiled twosum in 0.16s
+2020.08.13 21:27:02 INFO  compiling twosum (1 scala source)
+2020.08.13 21:27:02 INFO  time: compiled twosum in 0.99s
+2020.08.13 21:27:05 INFO  compiling twosum (1 scala source)
+2020.08.13 21:27:05 INFO  time: compiled twosum in 0.83s
+2020.08.13 21:27:07 INFO  compiling twosum (1 scala source)
+2020.08.13 21:27:07 INFO  time: compiled twosum in 0.32s
+2020.08.13 21:27:11 INFO  compiling twosum (1 scala source)
+2020.08.13 21:27:11 INFO  time: compiled twosum in 0.17s
+2020.08.13 21:27:13 INFO  compiling twosum (1 scala source)
+2020.08.13 21:27:13 INFO  time: compiled twosum in 0.14s
+2020.08.13 21:27:15 INFO  compiling twosum (1 scala source)
+2020.08.13 21:27:15 INFO  time: compiled twosum in 0.15s
+2020.08.13 21:27:20 INFO  compiling twosum (1 scala source)
+2020.08.13 21:27:20 INFO  time: compiled twosum in 0.81s
+2020.08.13 21:27:33 INFO  compiling twosum (1 scala source)
+2020.08.13 21:27:33 INFO  time: compiled twosum in 0.16s
+2020.08.13 21:27:35 INFO  compiling twosum (1 scala source)
+2020.08.13 21:27:35 INFO  time: compiled twosum in 0.15s
+2020.08.13 21:27:43 INFO  compiling twosum (1 scala source)
+2020.08.13 21:27:43 INFO  time: compiled twosum in 0.25s
+2020.08.13 21:27:45 INFO  compiling twosum (1 scala source)
+2020.08.13 21:27:45 INFO  time: compiled twosum in 0.16s
+2020.08.13 21:27:49 INFO  compiling twosum (1 scala source)
+2020.08.13 21:27:49 INFO  time: compiled twosum in 0.23s
+2020.08.13 21:27:51 INFO  compiling twosum (1 scala source)
+2020.08.13 21:27:51 INFO  time: compiled twosum in 0.32s
+2020.08.13 21:27:53 INFO  compiling twosum (1 scala source)
+2020.08.13 21:27:54 INFO  time: compiled twosum in 1s
+2020.08.13 21:27:59 INFO  compiling twosum (1 scala source)
+2020.08.13 21:27:59 INFO  time: compiled twosum in 0.15s
+2020.08.13 21:28:02 INFO  compiling twosum (1 scala source)
+2020.08.13 21:28:02 INFO  time: compiled twosum in 0.15s
+2020.08.13 21:28:10 INFO  compiling twosum (1 scala source)
+2020.08.13 21:28:10 INFO  time: compiled twosum in 0.15s
+2020.08.13 21:28:12 INFO  compiling twosum (1 scala source)
+2020.08.13 21:28:12 INFO  time: compiled twosum in 0.17s
+2020.08.13 21:28:34 INFO  compiling twosum (1 scala source)
+2020.08.13 21:28:35 INFO  time: compiled twosum in 1.04s
+Aug 13, 2020 9:28:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1509
+Aug 13, 2020 9:28:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1511
+Aug 13, 2020 9:28:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1508
+2020.08.13 21:28:40 INFO  compiling twosum (1 scala source)
+2020.08.13 21:28:40 INFO  time: compiled twosum in 0.23s
+2020.08.13 21:28:42 INFO  compiling twosum (1 scala source)
+2020.08.13 21:28:42 INFO  time: compiled twosum in 0.21s
+2020.08.13 21:28:49 INFO  compiling twosum (1 scala source)
+2020.08.13 21:28:49 INFO  time: compiled twosum in 0.25s
+2020.08.13 21:28:51 INFO  compiling twosum (1 scala source)
+2020.08.13 21:28:51 INFO  time: compiled twosum in 0.24s
+2020.08.13 21:28:55 INFO  compiling twosum (1 scala source)
+2020.08.13 21:28:55 INFO  time: compiled twosum in 0.23s
+2020.08.13 21:28:58 INFO  compiling twosum (1 scala source)
+2020.08.13 21:28:58 INFO  time: compiled twosum in 0.51s
+2020.08.13 21:29:00 INFO  compiling twosum (1 scala source)
+2020.08.13 21:29:00 INFO  time: compiled twosum in 0.28s
+2020.08.13 21:29:03 INFO  compiling twosum (1 scala source)
+2020.08.13 21:29:03 INFO  time: compiled twosum in 0.21s
+2020.08.13 21:29:05 INFO  compiling twosum (1 scala source)
+2020.08.13 21:29:05 INFO  time: compiled twosum in 0.24s
+2020.08.13 21:29:10 INFO  compiling twosum (1 scala source)
+2020.08.13 21:29:10 INFO  time: compiled twosum in 0.16s
+2020.08.13 21:29:12 INFO  compiling twosum (1 scala source)
+2020.08.13 21:29:12 INFO  time: compiled twosum in 0.16s
+2020.08.13 21:29:14 INFO  compiling twosum (1 scala source)
+2020.08.13 21:29:14 INFO  time: compiled twosum in 0.18s
+2020.08.13 21:29:17 INFO  compiling twosum (1 scala source)
+2020.08.13 21:29:17 INFO  time: compiled twosum in 0.16s
+2020.08.13 21:29:55 INFO  compiling twosum (1 scala source)
+2020.08.13 21:29:55 INFO  time: compiled twosum in 0.23s
+2020.08.13 21:29:57 INFO  compiling twosum (1 scala source)
+2020.08.13 21:29:57 INFO  time: compiled twosum in 0.22s
+2020.08.13 21:30:14 INFO  compiling twosum (1 scala source)
+2020.08.13 21:30:14 INFO  time: compiled twosum in 0.25s
+2020.08.13 21:30:16 INFO  compiling twosum (1 scala source)
+2020.08.13 21:30:16 INFO  time: compiled twosum in 0.23s
+2020.08.13 21:30:18 INFO  compiling twosum (1 scala source)
+2020.08.13 21:30:18 INFO  time: compiled twosum in 0.23s
+2020.08.13 21:30:22 INFO  compiling twosum (1 scala source)
+2020.08.13 21:30:22 INFO  time: compiled twosum in 0.25s
+2020.08.13 21:30:24 INFO  compiling twosum (1 scala source)
+2020.08.13 21:30:24 INFO  time: compiled twosum in 0.16s
+2020.08.13 21:36:09 INFO  compiling twosum (1 scala source)
+2020.08.13 21:36:09 INFO  time: compiled twosum in 0.16s
+2020.08.13 21:36:11 INFO  compiling twosum (1 scala source)
+2020.08.13 21:36:11 INFO  time: compiled twosum in 0.17s
+2020.08.13 21:36:16 INFO  compiling twosum (1 scala source)
+2020.08.13 21:36:16 INFO  time: compiled twosum in 0.23s
+2020.08.13 21:36:18 INFO  compiling twosum (1 scala source)
+2020.08.13 21:36:18 INFO  time: compiled twosum in 0.2s
+2020.08.13 21:36:24 INFO  compiling twosum (1 scala source)
+2020.08.13 21:36:24 INFO  time: compiled twosum in 0.88s
+2020.08.13 21:36:54 INFO  compiling twosum (1 scala source)
+2020.08.13 21:36:54 INFO  time: compiled twosum in 0.22s
+2020.08.13 21:36:56 INFO  compiling twosum (1 scala source)
+2020.08.13 21:36:56 INFO  time: compiled twosum in 0.22s
+2020.08.13 21:37:01 INFO  compiling twosum (1 scala source)
+2020.08.13 21:37:01 INFO  time: compiled twosum in 0.21s
+2020.08.13 21:37:04 INFO  compiling twosum (1 scala source)
+2020.08.13 21:37:04 INFO  time: compiled twosum in 0.29s
+2020.08.13 21:37:06 INFO  compiling twosum (1 scala source)
+2020.08.13 21:37:06 INFO  time: compiled twosum in 0.29s
+2020.08.13 21:37:08 INFO  compiling twosum (1 scala source)
+2020.08.13 21:37:08 INFO  time: compiled twosum in 0.83s
+2020.08.13 21:37:14 INFO  compiling twosum (1 scala source)
+2020.08.13 21:37:14 INFO  time: compiled twosum in 0.15s
+2020.08.13 21:37:16 INFO  compiling twosum (1 scala source)
+2020.08.13 21:37:16 INFO  time: compiled twosum in 0.15s
+2020.08.13 21:37:19 INFO  compiling twosum (1 scala source)
+2020.08.13 21:37:19 INFO  time: compiled twosum in 0.24s
+Aug 13, 2020 9:37:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1911
+2020.08.13 21:37:21 INFO  compiling twosum (1 scala source)
+2020.08.13 21:37:21 INFO  time: compiled twosum in 0.22s
+2020.08.13 21:37:23 INFO  compiling twosum (1 scala source)
+2020.08.13 21:37:23 INFO  time: compiled twosum in 0.26s
+2020.08.13 21:37:25 INFO  compiling twosum (1 scala source)
+2020.08.13 21:37:25 INFO  time: compiled twosum in 0.15s
+2020.08.13 21:37:32 INFO  compiling twosum (1 scala source)
+2020.08.13 21:37:32 INFO  time: compiled twosum in 0.15s
+2020.08.13 21:37:34 INFO  compiling twosum (1 scala source)
+2020.08.13 21:37:34 INFO  time: compiled twosum in 0.16s
+Aug 13, 2020 9:37:34 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2020.08.13 21:38:04 INFO  compiling twosum (1 scala source)
+2020.08.13 21:38:04 INFO  time: compiled twosum in 0.17s
+2020.08.13 21:38:11 INFO  compiling twosum (1 scala source)
+2020.08.13 21:38:11 INFO  time: compiled twosum in 0.23s
+2020.08.13 21:38:14 INFO  compiling twosum (1 scala source)
+2020.08.13 21:38:14 INFO  time: compiled twosum in 0.22s
+2020.08.13 21:39:52 INFO  compiling twosum (1 scala source)
+2020.08.13 21:39:52 INFO  time: compiled twosum in 0.22s
+2020.08.13 21:39:54 INFO  compiling twosum (1 scala source)
+2020.08.13 21:39:54 INFO  time: compiled twosum in 0.22s
+2020.08.13 21:39:57 INFO  compiling twosum (1 scala source)
+2020.08.13 21:39:57 INFO  time: compiled twosum in 0.23s
+2020.08.13 21:39:59 INFO  compiling twosum (1 scala source)
+2020.08.13 21:39:59 INFO  time: compiled twosum in 0.24s
+2020.08.13 21:40:01 INFO  compiling twosum (1 scala source)
+2020.08.13 21:40:01 INFO  time: compiled twosum in 0.23s
+2020.08.13 21:40:22 INFO  compiling twosum (1 scala source)
+2020.08.13 21:40:22 INFO  time: compiled twosum in 0.26s
+2020.08.13 21:40:24 INFO  compiling twosum (1 scala source)
+2020.08.13 21:40:24 INFO  time: compiled twosum in 0.23s
+2020.08.13 21:40:27 INFO  compiling twosum (1 scala source)
+2020.08.13 21:40:27 INFO  time: compiled twosum in 0.87s
+2020.08.13 21:40:30 INFO  compiling twosum (1 scala source)
+2020.08.13 21:40:30 INFO  time: compiled twosum in 0.23s
+2020.08.13 21:40:33 INFO  compiling twosum (1 scala source)
+2020.08.13 21:40:33 INFO  time: compiled twosum in 0.23s
+2020.08.13 21:40:35 INFO  compiling twosum (1 scala source)
+2020.08.13 21:40:35 INFO  time: compiled twosum in 0.24s
+2020.08.13 21:40:37 INFO  compiling twosum (1 scala source)
+2020.08.13 21:40:37 INFO  time: compiled twosum in 0.35s
+2020.08.13 21:40:40 INFO  compiling twosum (1 scala source)
+2020.08.13 21:40:40 INFO  time: compiled twosum in 0.28s
+2020.08.13 21:40:41 INFO  compiling twosum (1 scala source)
+2020.08.13 21:40:41 INFO  time: compiled twosum in 0.23s
+2020.08.13 21:40:41 INFO  compiling twosum (1 scala source)
+2020.08.13 21:40:41 INFO  time: compiled twosum in 0.17s
+2020.08.13 21:40:46 INFO  compiling twosum (1 scala source)
+2020.08.13 21:40:46 INFO  time: compiled twosum in 0.23s
+2020.08.13 21:40:48 INFO  compiling twosum (1 scala source)
+2020.08.13 21:40:48 INFO  time: compiled twosum in 0.17s
+2020.08.13 21:40:50 INFO  compiling twosum (1 scala source)
+2020.08.13 21:40:50 INFO  time: compiled twosum in 0.2s
+2020.08.13 21:40:53 INFO  compiling twosum (1 scala source)
+2020.08.13 21:40:53 INFO  time: compiled twosum in 0.27s
+2020.08.13 21:40:56 INFO  compiling twosum (1 scala source)
+2020.08.13 21:40:56 INFO  time: compiled twosum in 0.24s
+2020.08.13 21:40:58 INFO  compiling twosum (1 scala source)
+2020.08.13 21:40:58 INFO  time: compiled twosum in 0.24s
+2020.08.13 21:41:01 INFO  compiling twosum (1 scala source)
+2020.08.13 21:41:01 INFO  time: compiled twosum in 0.2s
+2020.08.13 21:41:03 INFO  compiling twosum (1 scala source)
+2020.08.13 21:41:03 INFO  time: compiled twosum in 0.23s
+2020.08.13 21:41:17 INFO  compiling twosum (1 scala source)
+2020.08.13 21:41:17 INFO  time: compiled twosum in 0.34s
+2020.08.13 21:41:19 INFO  compiling twosum (1 scala source)
+2020.08.13 21:41:19 INFO  time: compiled twosum in 0.22s
+2020.08.13 21:42:01 INFO  compiling twosum (1 scala source)
+2020.08.13 21:42:01 INFO  time: compiled twosum in 0.16s
+2020.08.13 21:42:03 INFO  compiling twosum (1 scala source)
+2020.08.13 21:42:03 INFO  time: compiled twosum in 0.15s
+2020.08.13 21:42:05 INFO  compiling twosum (1 scala source)
+2020.08.13 21:42:05 INFO  time: compiled twosum in 0.16s
+2020.08.13 21:42:07 INFO  compiling twosum (1 scala source)
+2020.08.13 21:42:07 INFO  time: compiled twosum in 0.83s
+2020.08.13 21:42:12 INFO  compiling twosum (1 scala source)
+2020.08.13 21:42:12 INFO  time: compiled twosum in 0.85s
+2020.08.13 21:42:58 INFO  compiling twosum (1 scala source)
+2020.08.13 21:42:58 INFO  time: compiled twosum in 0.79s
+2020.08.13 21:43:12 INFO  compiling twosum (1 scala source)
+2020.08.13 21:43:12 INFO  time: compiled twosum in 0.21s
+2020.08.13 21:43:14 INFO  compiling twosum (1 scala source)
+2020.08.13 21:43:14 INFO  time: compiled twosum in 0.23s
+2020.08.13 21:43:17 INFO  compiling twosum (1 scala source)
+2020.08.13 21:43:17 INFO  time: compiled twosum in 0.21s
+2020.08.13 21:43:19 INFO  compiling twosum (1 scala source)
+2020.08.13 21:43:19 INFO  time: compiled twosum in 0.25s
+2020.08.13 21:43:21 INFO  compiling twosum (1 scala source)
+2020.08.13 21:43:21 INFO  time: compiled twosum in 0.22s
+2020.08.13 21:43:24 INFO  compiling twosum (1 scala source)
+2020.08.13 21:43:24 INFO  time: compiled twosum in 0.22s
+2020.08.13 21:43:29 INFO  compiling twosum (1 scala source)
+2020.08.13 21:43:29 INFO  time: compiled twosum in 0.46s
+2020.08.13 21:43:32 INFO  compiling twosum (1 scala source)
+2020.08.13 21:43:32 INFO  time: compiled twosum in 0.14s
+2020.08.13 21:43:37 INFO  compiling twosum (1 scala source)
+2020.08.13 21:43:37 INFO  time: compiled twosum in 0.23s
+2020.08.13 21:43:39 INFO  compiling twosum (1 scala source)
+2020.08.13 21:43:39 INFO  time: compiled twosum in 0.17s
+2020.08.13 21:43:41 INFO  compiling twosum (1 scala source)
+2020.08.13 21:43:41 INFO  time: compiled twosum in 0.14s
+2020.08.13 21:43:43 INFO  compiling twosum (1 scala source)
+2020.08.13 21:43:43 INFO  time: compiled twosum in 0.18s
+2020.08.13 21:43:45 INFO  compiling twosum (1 scala source)
+2020.08.13 21:43:45 INFO  time: compiled twosum in 0.89s
+2020.08.13 21:43:49 INFO  compiling twosum (1 scala source)
+2020.08.13 21:43:49 INFO  time: compiled twosum in 0.97s
+2020.08.13 21:43:50 INFO  Found new symbol references for '', try running again.
+2020.08.13 21:46:45 INFO  compiling twosum (1 scala source)
+2020.08.13 21:46:46 INFO  time: compiled twosum in 1s
+2020.08.13 21:46:51 INFO  compiling twosum (1 scala source)
+2020.08.13 21:46:51 INFO  time: compiled twosum in 0.83s
+2020.08.13 21:46:56 INFO  compiling twosum (1 scala source)
+2020.08.13 21:46:56 INFO  time: compiled twosum in 0.83s
+2020.08.13 21:48:07 INFO  compiling twosum (1 scala source)
+2020.08.13 21:48:07 INFO  time: compiled twosum in 0.23s
+2020.08.13 21:48:09 INFO  compiling twosum (1 scala source)
+2020.08.13 21:48:09 INFO  time: compiled twosum in 0.27s
+2020.08.13 21:48:09 INFO  compiling twosum (1 scala source)
+2020.08.13 21:48:10 INFO  time: compiled twosum in 0.24s
+2020.08.13 21:48:12 INFO  compiling twosum (1 scala source)
+2020.08.13 21:48:12 INFO  time: compiled twosum in 0.85s
+2020.08.13 21:48:45 INFO  compiling twosum (1 scala source)
+2020.08.13 21:48:46 INFO  time: compiled twosum in 1.09s
+2020.08.13 21:53:47 INFO  compiling twosum (1 scala source)
+2020.08.13 21:53:47 INFO  time: compiled twosum in 0.78s
+2020.08.13 21:53:50 INFO  compiling twosum (1 scala source)
+2020.08.13 21:53:50 INFO  time: compiled twosum in 0.24s
+2020.08.13 21:53:52 INFO  compiling twosum (1 scala source)
+2020.08.13 21:53:52 INFO  time: compiled twosum in 0.83s
+2020.08.13 21:57:07 INFO  compiling twosum (1 scala source)
+2020.08.13 21:57:07 INFO  time: compiled twosum in 0.85s
+2020.08.13 21:57:13 INFO  compiling twosum (1 scala source)
+2020.08.13 21:57:14 INFO  time: compiled twosum in 1.01s
+Aug 13, 2020 9:57:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2863
+Aug 13, 2020 9:57:16 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2020.08.13 21:57:18 INFO  compiling twosum (1 scala source)
+2020.08.13 21:57:18 INFO  time: compiled twosum in 0.89s
+2020.08.13 21:59:06 INFO  compiling twosum (1 scala source)
+2020.08.13 21:59:06 INFO  time: compiled twosum in 0.96s
+2020.08.13 21:59:09 INFO  compiling twosum (1 scala source)
+2020.08.13 21:59:09 INFO  time: compiled twosum in 0.22s
+2020.08.13 21:59:14 INFO  compiling twosum (1 scala source)
+2020.08.13 21:59:14 INFO  time: compiled twosum in 0.21s
+2020.08.13 21:59:16 INFO  compiling twosum (1 scala source)
+2020.08.13 21:59:16 INFO  time: compiled twosum in 0.22s
+2020.08.13 21:59:22 INFO  compiling twosum (1 scala source)
+2020.08.13 21:59:22 INFO  time: compiled twosum in 0.85s
+2020.08.13 21:59:25 INFO  compiling twosum (1 scala source)
+2020.08.13 21:59:26 INFO  time: compiled twosum in 1.03s
+2020.08.13 21:59:33 INFO  compiling twosum (1 scala source)
+2020.08.13 21:59:33 INFO  time: compiled twosum in 0.14s
+2020.08.13 21:59:36 INFO  compiling twosum (1 scala source)
+2020.08.13 21:59:36 INFO  time: compiled twosum in 0.15s
+2020.08.13 21:59:42 INFO  compiling twosum (1 scala source)
+2020.08.13 21:59:42 INFO  time: compiled twosum in 0.23s
+2020.08.13 21:59:44 INFO  compiling twosum (1 scala source)
+2020.08.13 21:59:44 INFO  time: compiled twosum in 0.8s
+2020.08.13 21:59:56 INFO  compiling twosum (1 scala source)
+2020.08.13 21:59:56 INFO  time: compiled twosum in 0.25s
+2020.08.13 21:59:58 INFO  compiling twosum (1 scala source)
+2020.08.13 21:59:58 INFO  time: compiled twosum in 0.22s
+2020.08.13 22:00:08 INFO  compiling twosum (1 scala source)
+2020.08.13 22:00:08 INFO  time: compiled twosum in 0.14s
+2020.08.13 22:00:11 INFO  compiling twosum (1 scala source)
+2020.08.13 22:00:11 INFO  time: compiled twosum in 0.14s
+2020.08.13 22:00:13 INFO  compiling twosum (1 scala source)
+2020.08.13 22:00:13 INFO  time: compiled twosum in 0.14s
+2020.08.13 22:00:16 INFO  compiling twosum (1 scala source)
+2020.08.13 22:00:16 INFO  time: compiled twosum in 0.16s
+2020.08.13 22:00:20 INFO  compiling twosum (1 scala source)
+2020.08.13 22:00:20 INFO  time: compiled twosum in 0.17s
+2020.08.13 22:00:22 INFO  compiling twosum (1 scala source)
+2020.08.13 22:00:22 INFO  time: compiled twosum in 0.15s
+2020.08.13 22:00:25 INFO  compiling twosum (1 scala source)
+2020.08.13 22:00:25 INFO  time: compiled twosum in 0.15s
+2020.08.13 22:00:27 INFO  compiling twosum (1 scala source)
+2020.08.13 22:00:27 INFO  time: compiled twosum in 0.14s
+2020.08.13 22:00:29 INFO  compiling twosum (1 scala source)
+2020.08.13 22:00:29 INFO  time: compiled twosum in 0.15s
+2020.08.13 22:00:35 INFO  compiling twosum (1 scala source)
+2020.08.13 22:00:35 INFO  time: compiled twosum in 0.15s
+2020.08.13 22:00:38 INFO  compiling twosum (1 scala source)
+2020.08.13 22:00:38 INFO  time: compiled twosum in 0.16s
+2020.08.13 22:00:43 INFO  compiling twosum (1 scala source)
+2020.08.13 22:00:43 INFO  time: compiled twosum in 0.14s
+2020.08.13 22:00:45 INFO  compiling twosum (1 scala source)
+2020.08.13 22:00:45 INFO  time: compiled twosum in 0.18s
+2020.08.13 22:00:49 INFO  compiling twosum (1 scala source)
+2020.08.13 22:00:49 INFO  time: compiled twosum in 0.15s
+2020.08.13 22:00:51 INFO  compiling twosum (1 scala source)
+2020.08.13 22:00:51 INFO  time: compiled twosum in 0.14s
+2020.08.13 22:00:56 INFO  compiling twosum (1 scala source)
+2020.08.13 22:00:56 INFO  time: compiled twosum in 0.8s
+2020.08.13 22:01:06 INFO  compiling twosum (1 scala source)
+2020.08.13 22:01:06 INFO  time: compiled twosum in 0.78s
+2020.08.13 22:01:11 INFO  compiling twosum (1 scala source)
+2020.08.13 22:01:11 INFO  time: compiled twosum in 0.76s
+2020.08.13 22:01:21 INFO  compiling twosum (1 scala source)
+2020.08.13 22:01:21 INFO  time: compiled twosum in 0.79s
+2020.08.13 22:01:24 INFO  compiling twosum (1 scala source)
+2020.08.13 22:01:24 INFO  time: compiled twosum in 0.84s
+2020.08.13 22:01:27 INFO  compiling twosum (1 scala source)
+2020.08.13 22:01:27 INFO  time: compiled twosum in 0.34s
+2020.08.13 22:01:32 INFO  compiling twosum (1 scala source)
+Aug 13, 2020 10:01:33 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 838, count -1, length 936
+2020.08.13 22:01:32 INFO  time: compiled twosum in 0.89s
+2020.08.13 22:01:37 INFO  compiling twosum (1 scala source)
+2020.08.13 22:01:37 INFO  time: compiled twosum in 0.14s
+2020.08.13 22:01:40 INFO  compiling twosum (1 scala source)
+2020.08.13 22:01:40 INFO  time: compiled twosum in 0.94s
+2020.08.13 22:01:45 INFO  compiling twosum (1 scala source)
+2020.08.13 22:01:45 INFO  time: compiled twosum in 0.79s
+2020.08.13 22:01:48 INFO  compiling twosum (1 scala source)
+2020.08.13 22:01:48 INFO  time: compiled twosum in 0.78s
+2020.08.13 22:02:02 INFO  compiling twosum (1 scala source)
+2020.08.13 22:02:02 INFO  time: compiled twosum in 0.14s
+2020.08.13 22:02:05 INFO  compiling twosum (1 scala source)
+2020.08.13 22:02:05 INFO  time: compiled twosum in 0.34s
+2020.08.13 22:02:07 INFO  compiling twosum (1 scala source)
+2020.08.13 22:02:07 INFO  time: compiled twosum in 0.17s
+2020.08.13 22:02:18 INFO  compiling twosum (1 scala source)
+2020.08.13 22:02:18 INFO  time: compiled twosum in 0.26s
+2020.08.13 22:02:20 INFO  compiling twosum (1 scala source)
+2020.08.13 22:02:20 INFO  time: compiled twosum in 0.22s
+2020.08.13 22:02:22 INFO  compiling twosum (1 scala source)
+2020.08.13 22:02:22 INFO  time: compiled twosum in 0.25s
+2020.08.13 22:02:25 INFO  compiling twosum (1 scala source)
+2020.08.13 22:02:25 INFO  time: compiled twosum in 0.23s
+2020.08.13 22:02:27 INFO  compiling twosum (1 scala source)
+2020.08.13 22:02:27 INFO  time: compiled twosum in 0.22s
+2020.08.13 22:02:32 INFO  compiling twosum (1 scala source)
+2020.08.13 22:02:32 INFO  time: compiled twosum in 0.24s
+2020.08.13 22:02:34 INFO  compiling twosum (1 scala source)
+2020.08.13 22:02:34 INFO  time: compiled twosum in 0.23s
+2020.08.13 22:02:46 INFO  compiling twosum (1 scala source)
+2020.08.13 22:02:46 INFO  time: compiled twosum in 0.23s
+2020.08.13 22:02:48 INFO  compiling twosum (1 scala source)
+2020.08.13 22:02:48 INFO  time: compiled twosum in 0.21s
+Aug 13, 2020 10:03:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3617
+2020.08.13 22:03:12 INFO  compiling twosum (1 scala source)
+2020.08.13 22:03:12 INFO  time: compiled twosum in 0.22s
+2020.08.13 22:03:14 INFO  compiling twosum (1 scala source)
+2020.08.13 22:03:14 INFO  time: compiled twosum in 0.27s
+2020.08.13 22:03:16 INFO  compiling twosum (1 scala source)
+2020.08.13 22:03:16 INFO  time: compiled twosum in 0.27s
+2020.08.13 22:03:19 INFO  compiling twosum (1 scala source)
+2020.08.13 22:03:19 INFO  time: compiled twosum in 0.23s
+2020.08.13 22:03:23 INFO  compiling twosum (1 scala source)
+2020.08.13 22:03:23 INFO  time: compiled twosum in 0.15s
+2020.08.13 22:03:25 INFO  compiling twosum (1 scala source)
+2020.08.13 22:03:25 INFO  time: compiled twosum in 0.23s
+2020.08.13 22:03:27 INFO  compiling twosum (1 scala source)
+2020.08.13 22:03:27 INFO  time: compiled twosum in 0.22s
+2020.08.13 22:03:29 INFO  compiling twosum (1 scala source)
+2020.08.13 22:03:29 INFO  time: compiled twosum in 0.14s
+2020.08.13 22:03:32 INFO  compiling twosum (1 scala source)
+2020.08.13 22:03:32 INFO  time: compiled twosum in 0.88s
+2020.08.13 22:03:37 INFO  compiling twosum (1 scala source)
+2020.08.13 22:03:37 INFO  time: compiled twosum in 0.83s
+2020.08.13 22:04:05 INFO  compiling twosum (1 scala source)
+2020.08.13 22:04:05 INFO  time: compiled twosum in 0.85s
+2020.08.13 22:14:20 INFO  compiling twosum (1 scala source)
+2020.08.13 22:14:22 INFO  time: compiled twosum in 1.14s
+2020.08.13 22:14:29 INFO  compiling twosum (1 scala source)
+2020.08.13 22:14:29 INFO  time: compiled twosum in 0.79s
+2020.08.13 22:18:58 INFO  shutting down Metals
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+2020.08.15 18:01:50 INFO  started: Metals version 0.9.2 in workspace 'C:\_Ongoing\scalaproject\twosum' for client vscode.
+2020.08.15 18:01:53 INFO  time: initialize in 2.93s
+2020.08.15 18:01:55 INFO  no build target: using presentation compiler with only scala-library
+2020.08.15 18:01:55 INFO  skipping build import with status 'Installed'
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 18991'...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+2020.08.15 18:02:02 WARN  no build target for: C:\_Ongoing\scalaproject\twosum\src\main\scala\twosum_main.scala
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.3...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Loading 2 projects from 'c:\_Ongoing\scalaproject\twosum\.bloop'...
+[0m[32m[D][0m Loading project from 'c:\_Ongoing\scalaproject\twosum\.bloop\twosum.json'
+[0m[32m[D][0m Loading project from 'c:\_Ongoing\scalaproject\twosum\.bloop\twosum-test.json'
+[0m[32m[D][0m Cache miss for scala instance org.scala-lang:scala-compiler:2.12.10.
+[0m[32m[D][0m   => C:\Users\kewie\.sbt\boot\scala-2.12.10\lib\jansi.jar
+[0m[32m[D][0m   => C:\Users\kewie\.sbt\boot\scala-2.12.10\lib\jline.jar
+[0m[32m[D][0m   => C:\Users\kewie\.sbt\boot\scala-2.12.10\lib\scala-compiler.jar
+[0m[32m[D][0m   => C:\Users\kewie\.sbt\boot\scala-2.12.10\lib\scala-library.jar
+[0m[32m[D][0m   => C:\Users\kewie\.sbt\boot\scala-2.12.10\lib\scala-reflect.jar
+[0m[32m[D][0m   => C:\Users\kewie\.sbt\boot\scala-2.12.10\lib\scala-xml_2.12.jar
+[0m[32m[D][0m Configured SemanticDB in projects 'twosum-test', 'twosum'
+[0m[32m[D][0m Missing analysis file for project 'twosum-test'
+[0m[32m[D][0m Loading previous analysis for 'twosum' from 'C:\_Ongoing\scalaproject\twosum\target\streams\compile\bloopAnalysisOut\_global\streams\inc_compile_2.12.zip'.
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:18991...
+The server is listening for incoming connections at tcp://127.0.0.1:18991...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2020.08.15 18:02:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\kewie\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2020.08.15 18:02:12 INFO  time: connected to build server in 17s
+2020.08.15 18:02:12 INFO  Connected to Build server v1.4.3
+2020.08.15 18:02:11 INFO  time: imported build in 0.59s
+2020.08.15 18:02:18 INFO  time: indexed workspace in 5.95s
+2020.08.15 18:02:21 INFO  compiling twosum (1 scala source)
+2020.08.15 18:02:33 INFO  time: compiled twosum in 12s
+Aug 15, 2020 6:12:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22
+2020.08.15 18:28:21 INFO  shutting down Metals
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+2020.08.15 18:41:54 INFO  started: Metals version 0.9.2 in workspace 'C:\_Ongoing\scalaproject\twosum' for client vscode.
+2020.08.15 18:41:56 INFO  time: initialize in 2.11s
+2020.08.15 18:41:57 INFO  no build target: using presentation compiler with only scala-library
+2020.08.15 18:41:57 INFO  skipping build import with status 'Installed'
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 42279'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:42279...
+The server is listening for incoming connections at tcp://127.0.0.1:42279...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2020.08.15 18:41:59 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\kewie\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2020.08.15 18:42:00 INFO  time: connected to build server in 3.06s
+2020.08.15 18:42:00 INFO  Connected to Build server v1.4.3
+2020.08.15 18:42:00 INFO  time: imported build in 0.53s
+2020.08.15 18:42:11 INFO  time: indexed workspace in 10s
+2020.08.15 20:33:14 INFO  shutting down Metals
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...

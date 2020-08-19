@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.12.10":{"hashes":[["C:\\_Ongoing\\scalaproject\\twosum\\src\\main\\scala\\twosum_main.scala","3ac4f8f764b1e5245c756b1ebb1890fd6fdc269f"]],"lastModifiedTimes":[]}}]
